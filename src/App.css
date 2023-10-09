@@ -1,0 +1,9 @@
+@media screen and (min-width: 350px) and (max-width: 1024px) {
+    .filter:not(.nav-open) {
+        transform: translateY(-100%);
+      }
+  }
+
+.filter{
+    transition: all 0.8s ease-in-out;
+}
