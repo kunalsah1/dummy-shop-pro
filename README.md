@@ -1,4 +1,4 @@
-#Totality - E-commerce Website
+ E-commerce Website
 
 This project is an e-commerce (Assignment) website  that allows users to browse and shop for a variety of products. 
 It includes features such as product listing, shopping cart management, checkout, and responsive design.
